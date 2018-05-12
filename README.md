@@ -15,7 +15,7 @@ Our project is a digital thermometer with 1 second delay. You can connect Arduin
 ## Installation: 
 - Download the code.
 - Download the library for the components that needed n the code.
-- Open the Arduino IDE and write the code.
+- Open the Arduino IDE and load the code.
 - Take the libraries copy/paste in the file of the code so the components can work.
 
 ## Usage:
