@@ -13,10 +13,10 @@ Tools needed:
 6. 1 x temperature sensor (HIH 6130)
 
 Installation: 
-a. Download the code.
-b. Download the library for the components that needed n the code.
-c. Open the Arduino IDE and write the code.
-d. Take the libraries copy/paste in the file of the code so the components can work.
+1. Download the code.
+2. Download the library for the components that needed n the code.
+3. Open the Arduino IDE and write the code.
+4. Take the libraries copy/paste in the file of the code so the components can work.
 
 Usage:
-i. You can open the Copy-of-Arduino-Mosfet-DC-Motor-Driver.brd with www.tinkercad.com 
+1. You can open the Copy-of-Arduino-Mosfet-DC-Motor-Driver.brd with www.tinkercad.com 
