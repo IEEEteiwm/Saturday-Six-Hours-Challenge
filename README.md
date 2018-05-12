@@ -19,7 +19,7 @@ Our project is a digital thermometer with 1 second delay. You can connect Arduin
 - Take the libraries copy/paste in the file of the code so the components can work.
 
 ## Usage:
--You can open the Copy-of-Arduino-Mosfet-DC-Motor-Driver.brd with www.tinkercad.com 
+- You can open the Copy-of-Arduino-Mosfet-DC-Motor-Driver.brd with www.tinkercad.com 
 
 ## Schematic
 ![schematic](Copy-of-Arduino-Mosfet-DC-Motor-Driver.png)
